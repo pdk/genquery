@@ -1,0 +1,9 @@
+2018/03/17 17:03:54 column id is type INT8
+2018/03/17 17:03:54 column name is type VARCHAR
+2018/03/17 17:03:54 column is_good is type BOOL
+2018/03/17 17:03:54 column birth_date is type DATE
+2018/03/17 17:03:54 column first_encounter is type TIMESTAMP
+2018/03/17 17:03:54 column dollars is type NUMERIC
+2018/03/17 17:03:54 data: {{[id name is_good birth_date first_encounter dollars] map[birth_date:DATE first_encounter:TIMESTAMP dollars:NUMERIC id:INT8 name:VARCHAR is_good:BOOL]} map[id:0xc4200dc0d0 name:0xc4200de180 is_good:0xc4200dc0e0 birth_date:0xc4200de1a0 first_encounter:0xc4200de1c0 dollars:0xc4200dc0f0]}
+2018/03/17 17:03:54 column name has value alice
+2018/03/17 17:03:54 column is_good has value true
